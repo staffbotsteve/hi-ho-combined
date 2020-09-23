@@ -1,0 +1,10 @@
+.logo {
+   width: 40px;
+   background-color: white;
+   border-radius: 50%;
+}
+
+.whiteLink{
+   text-decoration: none;
+   color: white;
+}
